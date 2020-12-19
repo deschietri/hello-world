@@ -1,2 +1,2 @@
 # hello-world
-New in GitHub
+New on GitHub
